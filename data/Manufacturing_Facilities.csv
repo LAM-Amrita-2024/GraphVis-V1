@@ -1,0 +1,7 @@
+Facility_Id,Facility_name,Location,Capacity,Production_item,Utilization_rate,Maintenance_status
+1,Manuf_A,A,5000,AtomicLayerEtcher,0.8,Regular
+2,Manuf_B,B,3000,PlasmaEtcher,0.6,Good
+3,Manuf_C,C,7000,WaferCleaner,0.9,Good
+4,Manuf_A,A,6000,PlasmaEtcher,0.7,Critical
+5,Manuf_D,D,2000,WaferCleanChamber,0.8,Good
+6,Manuf_B,B,4500,AtomicLayerEtcher,0.5,Regular

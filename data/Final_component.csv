@@ -1,0 +1,6 @@
+Node_ID,Node_Type,Node_Name,Material_Cost,Assembly_Cost,Weight
+101,Component,Atomic_Layer_Etcher,200000,5000,1500
+102,Component,Plasma_Chamber,150000,4000,1200
+103,Component,Control_Panel,10000,1000,50
+104,Component,Power_Supply_Unit,30000,1500,200
+105,Component,Chiller_Unit,20000,800,100

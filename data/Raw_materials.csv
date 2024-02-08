@@ -1,0 +1,8 @@
+Node_ID,Node_Type,Node_Name,Material_Cost,Assembly_Cost,Weight
+301,Raw_Material,Silicon_Wafer,1000,0,200
+302,Raw_Material,Chemicals,5000,0,50
+303,Raw_Material,Steel_Structure,30000,0,500
+304,Raw_Material,Electronics,10000,0,250
+305,Raw_Material,Copper_Wires,8000,0,100
+306,Raw_Material,Plastic_Casing,4000,0,30
+307,Raw_Material,Circuit_Boards,15000,0,120

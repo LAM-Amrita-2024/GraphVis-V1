@@ -1,0 +1,10 @@
+Facility_Id,Hub_Id,Transportation_Mode,Shipment_Frequency,Cost
+1,101,Truck,3,5000
+2,102,Train,2,7000
+3,103,Air,4,4500
+2,101,Air,3,6000
+3,102,Truck,1,9000
+4,101,Train,3,3000
+4,102,Ship,1,10000
+6,103,Truck,4,4000
+1,105,Train,2,4000

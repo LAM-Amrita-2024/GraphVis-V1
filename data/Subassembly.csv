@@ -1,0 +1,6 @@
+Node_ID,Node_Type,Node_Name,Material_Cost,Assembly_Cost,Weight
+201,Subassembly,Etching_Module,50000,2000,800
+202,Subassembly,Pressure_Control_Unit,30000,1200,500
+203,Subassembly,Temperature_Regulation_Unit,25000,1000,300
+204,Subassembly,User_Interface_Module,8000,500,50
+205,Subassembly,Power_Distribution_Unit,12000,700,80

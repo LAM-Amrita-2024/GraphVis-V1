@@ -1,0 +1,6 @@
+Hub_Id,Hub_name,Location,Capacity,Throughput,Inventory_Levels
+101,Hub_X,X,8000,500,2000
+102,Hub_Y,Y,6000,400,1500
+103,Hub_Z,Z,9000,600,2500
+104,Hub_A,A,7000,500,3000
+105,Hub_B,B,5000,400,2000
